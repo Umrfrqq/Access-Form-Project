@@ -4,3 +4,4 @@ AccessForm is a web-based survey builder designed with accessibility as the high
 The project focuses on following official accessibility guidelines like WCAG 2.1 and WAI-ARIA to provide an inclusive experience for all users. It features an intuitive drag-and-drop interface for building surveys, various question types, and accessibility enhancements such as keyboard navigation, screen reader compatibility, and high-contrast themes.
 
 Technologies used in this project include modern web development frameworks and tools that support both frontend and backend functionalities, along with accessibility testing utilities to ensure compliance. The goal of AccessForm is to create an easy-to-use, fully accessible survey platform that promotes equal participation for everyone.
+![Alt image]()
